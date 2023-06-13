@@ -1,0 +1,110 @@
+baseURL = "https://pauloeli.github.io/blog"
+title = "paulo.eli"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+enableEmoji = true
+dateFormat = "2006-01-02"
+contentDirs = ["content1", "content2"]
+
+[markup.highlight]
+style = "github-light"
+
+[params]
+author = "Paulo Henrique Eli"
+description = "Paulo Eli's personal website"
+info = ["Software Architect", "Master’s degree in Information and Communication Technologies"]
+keywords = "blog, developer, personal"
+gravatar = "pauloh.eli@outlook.com"
+
+since = 2007
+commit = "https://github.com/pauloeli/pauloeli/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+# Cloudflare Web Analytics for analytics
+[params.cloudflare]
+token = "token"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/pauloeli/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/paulo.eli"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/pauloheli/"
+
+[languages.en]
+languageName = "English"
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 1
+
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
+#
+#[[languages.en.menu.main]]
+#name = "Projects"
+#weight = 3
+#url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[languages.pt-br]
+languageName = "Portuguese"
+
+[languages.pt-br.params]
+author = "Paulo Henrique Eli"
+description = "Site pessoal do Paulo Eli"
+info = ["Arquiteto de Software", "Mestre em Tecnologia da Informação e Comunicação"]
+keywords = "blog, desenvolvedor, pessoal"
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+url = "about/"
+weight = 1
+
+#[[languages.pt-br.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
+#
+#[[languages.pt-br.menu.main]]
+#name = "Projetos"
+#weight = 3
+#url = "projects/"
+
+[[languages.pt-br.menu.main]]
+name = "Contato"
+url = "contact/"
+weight = 2
