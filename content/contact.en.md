@@ -1,7 +1,7 @@
 +++
-date = 2021-03-12
 title = "Contact me"
 slug = "contact"
+date = 2023-06-12
 +++
 
 Thank you for visiting my website. If you have any inquiries or would like to get in touch, please feel free to reach
