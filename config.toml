@@ -29,9 +29,9 @@ customSCSS = []
 customJS = []
 customRemoteJS = []
 
-# Cloudflare Web Analytics for analytics
-[params.cloudflare]
-token = "token"
+## Cloudflare Web Analytics for analytics
+#[params.cloudflare]
+#token = "token"
 
 [taxonomies]
 category = "categories"
