@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pauloeli.dev/about/</loc>
+    <loc>https://www.pauloeli.dev/about/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/about/"
+                href="https://www.pauloeli.dev/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/about/"
+                href="https://www.pauloeli.dev/about/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/contact/</loc>
+    <loc>https://www.pauloeli.dev/contact/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/contact/"
+                href="https://www.pauloeli.dev/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/contact/"
+                href="https://www.pauloeli.dev/contact/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/authors/</loc>
+    <loc>https://www.pauloeli.dev/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/authors/"
+                href="https://www.pauloeli.dev/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/authors/"
+                href="https://www.pauloeli.dev/authors/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/categories/</loc>
+    <loc>https://www.pauloeli.dev/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/categories/"
+                href="https://www.pauloeli.dev/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/categories/"
+                href="https://www.pauloeli.dev/categories/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/</loc>
+    <loc>https://www.pauloeli.dev/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/"
+                href="https://www.pauloeli.dev/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/"
+                href="https://www.pauloeli.dev/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/series/</loc>
+    <loc>https://www.pauloeli.dev/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/series/"
+                href="https://www.pauloeli.dev/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/series/"
+                href="https://www.pauloeli.dev/series/"
                 />
   </url><url>
-    <loc>https://pauloeli.dev/tags/</loc>
+    <loc>https://www.pauloeli.dev/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.dev/pt-br/tags/"
+                href="https://www.pauloeli.dev/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.dev/tags/"
+                href="https://www.pauloeli.dev/tags/"
                 />
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "https://pauloeli.dev/"
+baseURL = "https://www.pauloeli.dev/"
 title = "paulo.eli"
 theme = "hugo-coder"
 languageCode = "en"

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paulo.eli</title>
-    <link>https://pauloeli.dev/pt-br/</link>
+    <link>https://www.pauloeli.dev/pt-br/</link>
     <description>Recent content on paulo.eli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pauloeli.dev/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.pauloeli.dev/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
-      <link>https://pauloeli.dev/pt-br/about/</link>
+      <link>https://www.pauloeli.dev/pt-br/about/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pauloeli.dev/pt-br/about/</guid>
+      <guid>https://www.pauloeli.dev/pt-br/about/</guid>
       <description>Mestre em Tecnologias da Informação e Comunicação pela Universidade Federal de Santa Catarina (UFSC) e Arquiteto de Sistemas, trabalho com desenvolvimento de software desde 2007.
 Atualmente focado no desenvolvimento das capacidades de arquitetura de software, DevOps, Soft Skills e brincando com novas tecnologias. Em âmbito acadêmico, interesse pela área de ensino de lógica de programação e programação, com foco no desenvolvimento de ferramentas e plataformas que facilitem o estudo dessa disciplina.</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://pauloeli.dev/pt-br/contact/</link>
+      <link>https://www.pauloeli.dev/pt-br/contact/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pauloeli.dev/pt-br/contact/</guid>
+      <guid>https://www.pauloeli.dev/pt-br/contact/</guid>
       <description>Obrigado por visitar meu website. Se você tiver alguma dúvida ou quiser entrar em contato, fique à vontade para entrar em contato comigo pelo LinkedIn ou por e-mail.
 LinkedIn Link para o cabeçalho Você pode se conectar comigo no LinkedIn visitando meu perfil:
 Perfil do LinkedIn

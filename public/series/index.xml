@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on paulo.eli</title>
-    <link>https://pauloeli.dev/series/</link>
+    <link>https://www.pauloeli.dev/series/</link>
     <description>Recent content in Series on paulo.eli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pauloeli.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.pauloeli.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
