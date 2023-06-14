@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on paulo.eli</title>
-    <link>https://www.pauloeli.dev/pt-br/tags/</link>
+    <link>https://pauloeli.github.io/pt-br/tags/</link>
     <description>Recent content in Tags on paulo.eli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.pauloeli.dev/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://pauloeli.github.io/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
