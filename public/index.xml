@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paulo.eli</title>
-    <link>https://pauloeli.github.io/blog/</link>
+    <link>https://pauloeli.dev/</link>
     <description>Recent content on paulo.eli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pauloeli.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://pauloeli.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://pauloeli.github.io/blog/about/</link>
+      <link>https://pauloeli.dev/about/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pauloeli.github.io/blog/about/</guid>
+      <guid>https://pauloeli.dev/about/</guid>
       <description>Master’s degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, I’ve been working with software development since 2007.
 Currently focused on developing software architecture capabilities, DevOps, Soft Skills and playing with new technologies. In the academic field, interest in the area of teaching programming and programming logic, focusing on the development of tools and platforms that facilitate the study of this discipline.</description>
     </item>
     
     <item>
       <title>Contact me</title>
-      <link>https://pauloeli.github.io/blog/contact/</link>
+      <link>https://pauloeli.dev/contact/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pauloeli.github.io/blog/contact/</guid>
+      <guid>https://pauloeli.dev/contact/</guid>
       <description>Thank you for visiting my website. If you have any inquiries or would like to get in touch, please feel free to reach out to me via LinkedIn or email.
 LinkedIn Link to heading You can connect with me on LinkedIn by visiting my profile:
 LinkedIn Profile

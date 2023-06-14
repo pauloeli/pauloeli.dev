@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pauloeli.github.io/blog/about/</loc>
+    <loc>https://pauloeli.dev/about/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/about/"
+                href="https://pauloeli.dev/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/about/"
+                href="https://pauloeli.dev/about/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/contact/</loc>
+    <loc>https://pauloeli.dev/contact/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/contact/"
+                href="https://pauloeli.dev/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/contact/"
+                href="https://pauloeli.dev/contact/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/authors/</loc>
+    <loc>https://pauloeli.dev/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/authors/"
+                href="https://pauloeli.dev/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/authors/"
+                href="https://pauloeli.dev/authors/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/categories/</loc>
+    <loc>https://pauloeli.dev/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/categories/"
+                href="https://pauloeli.dev/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/categories/"
+                href="https://pauloeli.dev/categories/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/</loc>
+    <loc>https://pauloeli.dev/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/"
+                href="https://pauloeli.dev/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/"
+                href="https://pauloeli.dev/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/series/</loc>
+    <loc>https://pauloeli.dev/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/series/"
+                href="https://pauloeli.dev/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/series/"
+                href="https://pauloeli.dev/series/"
                 />
   </url><url>
-    <loc>https://pauloeli.github.io/blog/tags/</loc>
+    <loc>https://pauloeli.dev/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pauloeli.github.io/blog/pt-br/tags/"
+                href="https://pauloeli.dev/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pauloeli.github.io/blog/tags/"
+                href="https://pauloeli.dev/tags/"
                 />
   </url>
 </urlset>
