@@ -17,6 +17,6 @@ Você pode se conectar comigo no LinkedIn visitando meu perfil:
 
 Se preferir entrar em contato por e-mail, utilize o seguinte endereço:
 
-[pauloh.eli@outlook.com](mailto:pauloh.eli@outlook.com)
+[contato@pauloeli.dev](mailto:contato@pauloeli.dev)
 
 Farei o possível para responder a sua mensagem prontamente.

@@ -17,6 +17,6 @@ You can connect with me on LinkedIn by visiting my profile:
 
 If you prefer to contact me via email, please use the following address:
 
-[pauloh[dot]eli[at]outlook.com](mailto:pauloh.eli@outlook.com)
+[contato@pauloeli.dev](mailto:contato@pauloeli.dev)
 
 I will do my best to respond to your message promptly.
