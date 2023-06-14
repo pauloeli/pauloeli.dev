@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 dateFormat = "2006-01-02"
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [markup.highlight]
 style = "github-light"
@@ -23,7 +23,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 
-# googleAnalytics = 'G-LBWJ4C9C72'
+googleAnalytics = 'G-LBWJ4C9C72'
 
 customCSS = []
 customSCSS = []
