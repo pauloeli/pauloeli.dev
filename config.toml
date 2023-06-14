@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 dateFormat = "2006-01-02"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [markup.highlight]
 style = "github-light"
