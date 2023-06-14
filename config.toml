@@ -23,7 +23,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 
-googleAnalytics = 'G-LBWJ4C9C72'
+# googleAnalytics = 'G-LBWJ4C9C72'
 
 customCSS = []
 customSCSS = []
