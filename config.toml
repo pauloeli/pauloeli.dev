@@ -6,40 +6,32 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 dateFormat = "2006-01-02"
-enableRobotsTXT = true
+contentDirs = ["content1", "content2"]
 
 [markup.highlight]
 style = "github-light"
 
 [params]
 author = "Paulo Henrique Eli"
-avatarURL = "images/avatar.png"
 description = "Welcome to my personal website, pauloeli.dev! This project serves as a showcase for my work, blog posts, and contact information."
 info = ["Software Architect", "Master’s degree in Information and Communication Technologies"]
 keywords = "blog, developer, personal"
+gravatar = "pauloh.eli@outlook.com"
+
 since = 2007
 commit = "https://github.com/pauloeli/pauloeli.dev/tree/"
 rtl = false
 colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
-
-# Cloudflare Web Analytics for analytics
-googleAnalytics = 'G-LBWJ4C9C72'
-
-# Cloudflare Web Analytics for analytics
-[params.cloudflare]
-token = "ab431b46e80f418d9945e429bf87fa9a"
-
-[_build]
-list = 'always'
-publishResources = true
-render = 'always'
-
 customCSS = []
 customSCSS = []
 customJS = []
 customRemoteJS = []
+
+# Cloudflare Web Analytics for analytics
+[params.cloudflare]
+token = "token"
 
 [taxonomies]
 category = "categories"
