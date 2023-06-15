@@ -22,13 +22,13 @@ rtl = false
 colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
-
-googleAnalytics = "G-LBWJ4C9C72"
-
 customCSS = []
 customSCSS = []
 customJS = []
 customRemoteJS = []
+
+[params.googleTagManager]
+id = "G-LBWJ4C9C72"
 
 [taxonomies]
 category = "categories"
