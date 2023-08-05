@@ -60,8 +60,8 @@ enableRobotsTXT = true
 
         [[languages.en.menu.main]]
         name = "Contact"
+        weight = 4
         url = "contact/"
-        weight = 3
 
     [languages.pt-br]
         languageName = "Portuguese"
@@ -90,8 +90,8 @@ enableRobotsTXT = true
 
         [[languages.pt-br.menu.main]]
         name = "Contato"
+        weight = 4
         url = "contato/"
-        weight = 3
 
 [[params.social]]
     name = "Github"
