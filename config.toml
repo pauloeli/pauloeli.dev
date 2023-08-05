@@ -2,33 +2,132 @@ baseURL = "https://www.pauloeli.dev/"
 title = "paulo.eli"
 theme = "hugo-coder"
 languageCode = "en"
+
 defaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+
+rtl = false
 paginate = 20
-enableEmoji = true
 dateFormat = "2006-01-02"
+
 enableRobotsTXT = true
 
-[markup.highlight]
-style = "github-light"
-
 [params]
-author = "Paulo Henrique Eli"
-description = "Welcome to my personal website, pauloeli.dev! This project serves as a showcase for my work, blog posts, and contact information."
-info = ["Software Architect", "Master’s degree in Information and Communication Technologies"]
-keywords = "blog, developer, personal"
-avatarURL = "images/avatar.png"
-since = 2007
-rtl = false
-colorScheme = "auto"
-hideColorSchemeToggle = false
-maxSeeAlsoItems = 5
-customCSS = []
-customSCSS = []
-customJS = []
-customRemoteJS = []
+    author = "Paulo Henrique Eli"
+    description = "Welcome to my personal website, pauloeli.dev! This project serves as a showcase for my work, blog posts, and contact information."
+    info = ["Software Architect", "Master’s degree in Information and Communication Technologies"]
+    keywords = "blog, developer, personal"
+    avatarURL = "images/avatar.png"
 
-[params.googleTagManager]
-id = "G-LBWJ4C9C72"
+    colorScheme = "auto"
+    maxSeeAlsoItems = 10
+    hideColorSchemeToggle = false
+
+    since = 2007
+    enableTwemoji = true
+
+    # customCSS = []
+    # customSCSS = []
+    # customJS = []
+    # customRemoteJS = []
+
+[languages]
+
+    [languages.en]
+        languageName = "English"
+        contentDir = "content/en"
+
+        [languages.en.params]
+        author = "Paulo Henrique Eli"
+        description = "Welcome to my personal website, pauloeli.dev! This project serves as a showcase for my work, blog and contact information."
+        info = ["Software Architect", "Master in Information and Communication Technology"]
+        keywords = "blog, developer, personal"
+
+        [[languages.en.menu.main]]
+        name = "About"
+        url = "about/"
+        weight = 1
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "posts/"
+
+#        [[languages.en.menu.main]]
+#        name = "Projects"
+#        weight = 3
+#        url = "projects/"
+
+        [[languages.en.menu.main]]
+        name = "Contact"
+        url = "contact/"
+        weight = 3
+
+    [languages.pt-br]
+        languageName = "Portuguese"
+        contentDir = "content/pt-br"
+
+        [languages.pt-br.params]
+        author = "Paulo Henrique Eli"
+        description = "Bem-vindo ao meu site pessoal, pauloeli.dev! Este projeto serve como uma vitrine para o meu trabalho, blog e informações de contato."
+        info = ["Arquiteto de Software", "Mestre em Tecnologia da Informação e Comunicação"]
+        keywords = "blog, desenvolvedor, pessoal"
+
+        [[languages.pt-br.menu.main]]
+        name = "Sobre"
+        url = "sobre/"
+        weight = 1
+
+        [[languages.pt-br.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "posts/"
+
+#        [[languages.pt-br.menu.main]]
+#        name = "Projetos"
+#        weight = 3
+#        url = "projetos/"
+
+        [[languages.pt-br.menu.main]]
+        name = "Contato"
+        url = "contato/"
+        weight = 3
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-2x fa-github"
+    weight = 1
+    url = "https://github.com/pauloeli/"
+
+[[params.social]]
+    name = "Gitlab"
+    icon = "fa fa-2x fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/paulo.eli"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-2x fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/pauloeli/"
+
+[build]
+writeStats = true
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup]
+[markup.highlight]
+style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [taxonomies]
 category = "categories"
@@ -36,72 +135,5 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/pauloeli/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/paulo.eli"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/pauloeli/"
-
-[languages.en]
-languageName = "English"
-
-[[languages.en.menu.main]]
-name = "About"
-url = "about/"
-weight = 1
-
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-#[[languages.en.menu.main]]
-#name = "Projects"
-#weight = 3
-#url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-
-[languages.pt-br]
-languageName = "Portuguese"
-
-[languages.pt-br.params]
-author = "Paulo Henrique Eli"
-description = "Bem-vindo ao meu site pessoal, pauloeli.dev! Este projeto serve como uma vitrine para o meu trabalho, blog e informações de contato."
-info = ["Arquiteto de Software", "Mestre em Tecnologia da Informação e Comunicação"]
-keywords = "blog, desenvolvedor, pessoal"
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-url = "about/"
-weight = 1
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-#
-#[[languages.pt-br.menu.main]]
-#name = "Projetos"
-#weight = 3
-#url = "projects/"
-
-[[languages.pt-br.menu.main]]
-name = "Contato"
-url = "contact/"
-weight = 3
+[params.googleTagManager]
+id = "G-LBWJ4C9C72"

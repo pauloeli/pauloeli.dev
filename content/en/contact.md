@@ -1,8 +1,11 @@
-+++
-title = "Contact me"
-slug = "contact"
-date = 2023-06-12
-+++
+---
+title: "Contact me"
+slug: "contact"
+date: 2023-06-12
+description: "Contact with Paulo Henrique Eli"
+tags: ["contact", "email", "linkedin"]
+permalink: "contact"
+---
 
 Thank you for visiting my website. If you have any inquiries or would like to get in touch, please feel free to reach
 out to me via LinkedIn or email.
