@@ -3,12 +3,14 @@ title: "Contato"
 slug: "contato"
 date: 2023-06-12
 description: "Contato com Paulo Henrique Eli"
-tags: ["contato", "email", "linkedin"]
+tags: [ "contato", "email", "linkedin" ]
 permalink: "contato"
 ---
 
 Obrigado por visitar meu website. Se você tiver alguma dúvida ou quiser entrar em contato, fique à vontade para entrar
 em contato comigo pelo LinkedIn ou por e-mail.
+
+Se você está interessado em saber mais sobre mim, pode visualizar meu [currículo](/resume/paulo.eli.pob.pdf).
 
 ## LinkedIn
 

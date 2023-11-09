@@ -21,6 +21,8 @@ development [at this address](https://repositorio.ufsc.br/handle/123456789/18543
 understanding of the research I conducted for a year with over 200 students, exploring their profiles and how to develop
 effective exercises and materials.
 
+You can visualize my full resume [here](/resume/paulo.eli.eng.pdf).
+
 On a daily basis, I work with the following languages and technologies:
 
 {{< rawhtml >}}
@@ -151,3 +153,4 @@ On a daily basis, I work with the following languages and technologies:
     </tr>
 
 {{< /rawhtml >}}
+
