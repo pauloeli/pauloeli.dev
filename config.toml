@@ -26,11 +26,6 @@ enableRobotsTXT = true
     since = 2007
     enableTwemoji = true
 
-    # customCSS = []
-    # customSCSS = []
-    # customJS = []
-    # customRemoteJS = []
-
 [languages]
 
     [languages.en]
@@ -49,18 +44,13 @@ enableRobotsTXT = true
         weight = 1
 
         [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Projects"
         weight = 2
         url = "posts/"
 
-#        [[languages.en.menu.main]]
-#        name = "Projects"
-#        weight = 3
-#        url = "projects/"
-
         [[languages.en.menu.main]]
         name = "Contact"
-        weight = 4
+        weight = 3
         url = "contact/"
 
     [languages.pt-br]
@@ -79,18 +69,13 @@ enableRobotsTXT = true
         weight = 1
 
         [[languages.pt-br.menu.main]]
-        name = "Blog"
+        name = "Projetos"
         weight = 2
         url = "posts/"
 
-#        [[languages.pt-br.menu.main]]
-#        name = "Projetos"
-#        weight = 3
-#        url = "projetos/"
-
         [[languages.pt-br.menu.main]]
         name = "Contato"
-        weight = 4
+        weight = 3
         url = "contato/"
 
 [[params.social]]
@@ -128,12 +113,6 @@ unsafe = true
 changefreq = "weekly"
 filename = "sitemap.xml"
 priority = 0.5
-
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-author = "authors"
 
 [params.googleTagManager]
 id = "G-LBWJ4C9C72"
