@@ -1,5 +1,7 @@
 # pauloeli.dev
 
+[![Deploy Hugo site to Pages](https://github.com/pauloeli/pauloeli.dev/actions/workflows/hugo.yml/badge.svg)](https://github.com/pauloeli/pauloeli.dev/actions/workflows/hugo.yml)
+
 Welcome to the repository for my personal website, [pauloeli.dev](https://pauloeli.dev)! This project serves as a
 showcase for my work, blog posts, and contact information.
 
