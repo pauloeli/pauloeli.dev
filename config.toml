@@ -116,3 +116,6 @@ priority = 0.5
 
 [params.googleTagManager]
 id = "G-LBWJ4C9C72"
+
+[params.cloudflare]
+token = "ab431b46e80f418d9945e429bf87fa9a"
